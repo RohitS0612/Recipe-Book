@@ -141,7 +141,7 @@ ul {
 }
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
     .container {
         margin-top: 80px;
         font-size: 14px;
