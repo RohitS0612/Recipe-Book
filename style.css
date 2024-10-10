@@ -143,6 +143,11 @@ ul {
 
 @media screen and (max-width: 500px) {
     .container {
+        margin-top: 80px;
         font-size: 14px;
+    }
+
+    img{
+        width: 80%;        
     }
 }
