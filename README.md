@@ -10,9 +10,7 @@ Welcome to the **Recipe Search App**! This web app allows users to search for re
 - **Ingredients List**: Displays ingredients along with their measurements.
 - **User-friendly interface** with basic error handling for empty input.
 
-## Demo
 
-[Try the app live](https://your-live-demo-url.com) (replace with the actual URL if you deploy it).
 
 ## Technologies Used
 
